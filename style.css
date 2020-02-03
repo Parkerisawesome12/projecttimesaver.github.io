@@ -1,0 +1,100 @@
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+
+
+a:link {
+
+color: e270ff;
+
+background-color: transparent;
+
+text-decoration: none;
+
+}
+
+a:visited {
+
+color: e270ff;
+
+background-color: e270ff;
+
+text-decoration: none;
+
+}
+
+a:hover {
+
+color: red;
+
+background-color: transparent;
+
+text-decoration: underline;
+
+}
+
+a:active {
+
+color: yellow;
+
+background-color: transparent;
+
+text-decoration: underline;
+
+}
+
+p {
+
+color:e270ff;
+
+}
+
+ul {
+
+list-style-type: none;
+
+margin: 0;
+
+padding: 0;
+
+overflow: hidden;
+
+background-color: #333;
+
+}
+
+li {
+
+float: left;
+
+}
+
+li a {
+
+display: block;
+
+color: white;
+
+text-align: center;
+
+padding: 14px 16px;
+
+text-decoration: none;
+
+}
+
+li a:hover {
+
+background-color: #111;
+
+}
+body { 
+
+background-color: #63daed;
+}
